@@ -1,2 +1,2 @@
 # Blokus-Game-Development
-Implementing the game "Blokuks" in C++.
+Implementing the game "Blokus" in C++.
